@@ -48,7 +48,7 @@
 
 
 ### Name: STANLEY S 
-### Register Number: 21222110054
+### Register Number: 212223110054
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
